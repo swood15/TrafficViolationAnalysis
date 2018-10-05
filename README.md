@@ -18,7 +18,7 @@ Questions to Answer:
 	3. Which make/model/color of car gets pulled over most often? (Jen)
 	4. Are there certain periods of the year that consistently experience higher volumes of traffic violations? (Nolan)
 	5. Does texting while driving contribute to accidents more often than other violation types? (Stephen)
-	6. Are men more prone to committing certain types of traffic violations than women and vice versa? (Sam)
+	6. Are men more prone to committing certain types of traffic violations than women and vice versa? (Stephen)
 	7. Do certain races get traffic violations disproportionately to their percentage of the overall population? (Sam)
 
 Additional Data Needed:
@@ -28,7 +28,7 @@ Additional Data Needed:
 	
 Responsibilities:
 
-	- Jen = PPT
+	- Jen = presentation
 	- Nolan = write up
 	- Sam = data clean/prep
-	- Stephen = everything else
+	- Stephen = analysis
