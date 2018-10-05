@@ -1,4 +1,4 @@
-Analysis of Traffic Violations in Montgomery, MD
+Analysis of Traffic Violations in Montgomery County, MD
 
 Team Members:
 
